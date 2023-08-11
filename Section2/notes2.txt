@@ -1,0 +1,12 @@
+https://docs.spring.io/spring-security/reference/servlet/authorization/authorize-http-requests.html
+# Documentation on how to use the new syntax of http methods
+
+# Repo for course content
+https://github.com/eazybytes/springsecurity6
+
+/myAccount
+/myBalance
+/myCards
+/contact
+/myLoans
+/notices
